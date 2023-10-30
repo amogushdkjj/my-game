@@ -1,0 +1,12 @@
+AnimationPlayer
+CollisionShape2D
+Area2D
+ProgressBar
+RichTextLabel
+Button
+Camera2D
+CanvasLayer
+Sprite2D
+AnimatedSprite2D
+StaticBody2D
+CharacterBody2D

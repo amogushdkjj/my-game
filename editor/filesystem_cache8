@@ -1,0 +1,136 @@
+1b68385e458f39b50782b41f7e95c77f
+::res://::1698686140
+amogboss.gd::GDScript::-1::1698248795::0::1::::<>CharacterBody2D<>::
+amogbosshit.gd::GDScript::-1::1698166264::0::1::::<>Area2D<>::
+amogboss_hit.tscn::PackedScene::7829812428320132211::1698685842::0::1::::<><>::uid://cp2j81caceg3a::::res://pngs/New Piskel (13) (1).png<>res://amogbosshit.gd
+amoguhealthbar.gd::GDScript::-1::1697646175::0::1::::<>ProgressBar<>::
+amogus_boss.tscn::PackedScene::9189531830584995230::1698685842::0::1::::<><>::uid://04a5nokdc5hv::::res://pngs/amogus.png<>res://amogboss.gd<>uid://dklvvne60kdfi::::res://coin.tscn<>uid://djs24p7r51pdb::::res://amogboss_hit.tscn
+amogu_enemy.gd::GDScript::-1::1698337451::0::1::::<>CharacterBody2D<>::
+amogu_enemy.tscn::PackedScene::3753769580932901900::1698685842::0::1::::<><>::res://amogu_enemy.gd<>uid://b3lcjfkbt84nv::::res://pngs/New Piskel (7).png<>uid://dklvvne60kdfi::::res://coin.tscn
+beam.gd::GDScript::-1::1698082188::0::1::::<>Area2D<>::
+beam.tscn::PackedScene::7432934602425403443::1698685842::0::1::::<><>::res://beam.gd<>uid://d1gtw70s16lxv::::res://pngs/New Piskel (6).png
+bucklemyshoe.tscn::PackedScene::435117850776093300::1696352339::0::1::::<><>::uid://4pr1k23g388h
+carrot.tscn::PackedScene::448791136913166963::1696352339::0::1::::<><>::uid://bdu2itp5tygta
+coin.tscn::PackedScene::7885171891699455870::1696351638::0::1::::<><>::uid://oel1wodqpojs
+dirt.tscn::PackedScene::999691113874777800::1696871041::0::1::::<><>::uid://2v5lvb33p4l1
+frog_salesman.tscn::PackedScene::1040384222338177221::1696351638::0::1::::<><>::uid://8lflmn80k2v2
+Global.gd::GDScript::-1::1698166264::0::1::::<>Node<>::
+goldapple.tscn::PackedScene::3802378228112647155::1696352339::0::1::::<><>::uid://d3n4drddtoevl
+grass1.tscn::PackedScene::9042205871211554226::1696351638::0::1::::<><>::uid://brcr441r46wag
+grass2.tscn::PackedScene::4338694712155347990::1696351638::0::1::::<><>::uid://bwsfdqlmghbi4
+healthbarplayer.gd::GDScript::-1::1697475184::0::1::::<>ProgressBar<>::
+hp_particle.tscn::PackedScene::7999378620197560365::1696351638::0::1::::<><>::uid://djfyrk0ij8v8s
+leave_button.tscn::PackedScene::8079480261353795812::1698163546::0::1::::<><>::uid://d0stalnsrldmn
+leave_shop.gd::GDScript::-1::1697129879::0::1::::<>Button<>::
+life2.tscn::PackedScene::7229521743477549266::1696352339::0::1::::<><>::uid://b1k2vmnsmoajl
+life.tscn::PackedScene::8052825633141147694::1696352339::0::1::::<><>::uid://b7didnjjxommp
+mc.gd::GDScript::-1::1698339493::0::1::::<>CharacterBody2D<>::
+mc.tscn::PackedScene::477386710944402110::1698685841::0::1::::<><>::res://mc.gd<>uid://c4h0e7f4oys3i::::res://pngs/New Piskel (4).png
+New Piskel (3) (1).png::CompressedTexture2D::598663636547449211::1697559438::1697559438::1::::<><>::
+New Piskel (3).png::CompressedTexture2D::5349530396436257836::1696871090::1696871090::1::::<><>::
+New Piskel (15).png::CompressedTexture2D::8952296163146052121::1697129788::1697129788::1::::<><>::
+next.gd::GDScript::-1::1697127329::0::1::::<>Area2D<>::
+nextscen.tscn::PackedScene::6311294515660847207::1698163546::0::1::::<><>::res://next.gd<>uid://b0aw8qdpwqrjt
+opened_shop.tscn::PackedScene::7778373760711977728::1696352339::0::1::::<><>::uid://covxlya476aks
+playerhealth.gd::GDScript::-1::1697476569::0::1::::<>ProgressBar<>::
+salesman.gd::GDScript::-1::1697129561::0::1::::<>Area2D<>::
+scene2.tscn::PackedScene::1782713331823573149::1698685841::0::1::::<><>::uid://bhn33mcg4xjq1::::res://pngs/new-1.png.png<>uid://d13d2r6fcgy6e::::res://grass1.tscn<>uid://g2iqvyxa8li1::::res://mc.tscn<>uid://o278gog382rp::::res://frog_salesman.tscn<>res://salesman.gd<>res://talk_button.gd
+shoe.tscn::PackedScene::6982181141093786695::1696352339::0::1::::<><>::uid://cud6evkeigt28
+shop.dialogue::Resource::2068474145776504031::1697129240::1697129240::1::::<><>::res://addons/dialogue_manager/dialogue_resource.gd
+shop.tscn::PackedScene::4218963762742011857::1698685841::0::1::::<><>::uid://c0nrogp4n28je::::res://pngs/New Piskel-1.png.png<>uid://di25xdnkok18g::::res://opened_shop.tscn<>uid://o278gog382rp::::res://frog_salesman.tscn<>uid://ck7kolfdyor3o::::res://sword.tscn<>uid://c6qhrd2dbl17x::::res://shoe.tscn<>uid://dmy34kcdu45qo::::res://life.tscn<>uid://gnnr3jhdtaw6::::res://carrot.tscn<>uid://vtxoqiom7smv::::res://sword2.tscn<>uid://gg1lerlr2mjk::::res://bucklemyshoe.tscn<>uid://dbabfw5uxqmfi::::res://life2.tscn<>uid://buf5u4wbonbd8::::res://goldapple.tscn<>uid://dnd04hs562g3m::::res://leave_button.tscn<>res://textlabl.gd
+super_fire.tscn::PackedScene::3625911612268245003::1696351638::0::1::::<><>::uid://cg83ybwu4gkyo
+sword2.tscn::PackedScene::1514611239059561589::1696352339::0::1::::<><>::uid://bn2155cqbiu77
+sword.tscn::PackedScene::5541422648588594842::1696352339::0::1::::<><>::uid://bbbs8oggrupad
+talk_button.gd::GDScript::-1::1697129601::0::1::::<>Button<>::
+textlabl.gd::GDScript::-1::1698081750::0::1::::<>RichTextLabel<>::
+tutorial.gd::GDScript::-1::1697129163::0::1::::<>Button<>::
+ultra_instinct.tscn::PackedScene::5914438011255883350::1696351638::0::1::::<><>::uid://br3yagdiix50x
+w1.gd::GDScript::-1::1696522254::0::1::::<>Node2D<>::
+w1.tscn::PackedScene::3056355218224375437::1698685841::0::1::::<><>::res://Global.gd<>uid://c0nrogp4n28je::::res://pngs/New Piskel-1.png.png<>uid://dkqbuqprbpcg5::::res://pngs/New Piskel-1.png (1).png<>uid://oii1cgah8h25::::res://dirt.tscn<>uid://d13d2r6fcgy6e::::res://grass1.tscn<>uid://g2iqvyxa8li1::::res://mc.tscn<>uid://byrr04y7ss0wa::::res://pngs/New Piskel-3.png.png<>uid://btqmbijfu5coy::::res://amogu_enemy.tscn<>res://tutorial.gd<>uid://d36qineba6fow::::res://amogus_boss.tscn<>res://playerhealth.gd<>uid://cv6idl7vxuga6::::res://nextscen.tscn<>uid://t4fjigipemjj::::res://you_hit.tscn
+you_hit.gd::GDScript::-1::1697732293::0::1::::<>Area2D<>::
+you_hit.tscn::PackedScene::1393775070938652667::1698685841::0::1::::<><>::uid://ir85xo5n0a2n::::res://New Piskel (3) (1).png<>res://you_hit.gd
+::res://addons/::1697128477
+::res://addons/dialogue_manager/::1697128478
+constants.gd::GDScript::-1::1697128478::0::1::::<>Node<>::
+dialogue_label.gd::GDScript::-1::1697128478::0::1::::DialogueLabel<>RichTextLabel<>res://addons/dialogue_manager/assets/icon.svg::
+dialogue_label.tscn::PackedScene::5518490004210093266::1697128478::0::1::::<><>::res://addons/dialogue_manager/dialogue_label.gd
+dialogue_line.gd::GDScript::-1::1697128478::0::1::::DialogueLine<>RefCounted<>::
+dialogue_manager.gd::GDScript::-1::1697128478::0::1::::<>Node<>::
+dialogue_reponses_menu.gd::GDScript::-1::1697128478::0::1::::DialogueResponsesMenu<>VBoxContainer<>res://addons/dialogue_manager/assets/responses_menu.svg::
+dialogue_resource.gd::GDScript::-1::1697128478::0::1::::DialogueResource<>Resource<>res://addons/dialogue_manager/assets/icon.svg::
+dialogue_response.gd::GDScript::-1::1697128478::0::1::::DialogueResponse<>RefCounted<>::
+editor_translation_parser_plugin.gd::GDScript::-1::1697128478::0::1::::<>EditorTranslationParserPlugin<>::
+import_plugin.gd::GDScript::-1::1697128478::0::1::::<>EditorImportPlugin<>::
+plugin.cfg::TextFile::-1::1697128478::0::1::::<><>::
+plugin.gd::GDScript::-1::1697128478::0::1::::<>EditorPlugin<>::
+test_scene.gd::GDScript::-1::1697128478::0::1::::BaseDialogueTestScene<>Node2D<>::
+test_scene.tscn::PackedScene::-1::1697128478::0::1::::<><>::res://addons/dialogue_manager/test_scene.gd
+::res://addons/dialogue_manager/assets/::1697128479
+icon.svg::CompressedTexture2D::9148339284877624195::1697128477::1697128479::1::::<><>::
+responses_menu.svg::CompressedTexture2D::8371359403825774630::1697128477::1697128479::1::::<><>::
+update.svg::CompressedTexture2D::9126631778427806641::1697128477::1697128479::1::::<><>::
+::res://addons/dialogue_manager/components/::1697128478
+code_edit.gd::GDScript::-1::1697128477::0::1::::<>CodeEdit<>::
+code_edit.tscn::PackedScene::5379618807048408118::1697128477::0::1::::<><>::res://addons/dialogue_manager/components/code_edit_syntax_highlighter.gd<>res://addons/dialogue_manager/components/code_edit.gd
+code_edit_syntax_highlighter.gd::GDScript::-1::1697128477::0::1::::<>SyntaxHighlighter<>::
+dialogue_cache.gd::GDScript::-1::1697128477::0::1::::<>Node<>::
+download_update_panel.gd::GDScript::-1::1697128477::0::1::::<>Control<>::
+download_update_panel.tscn::PackedScene::1130642722554629364::1697128477::0::1::::<><>::res://addons/dialogue_manager/components/download_update_panel.gd<>uid://d3baj6rygkb3f
+errors_panel.gd::GDScript::-1::1697128477::0::1::::<>HBoxContainer<>::
+errors_panel.tscn::PackedScene::6105315990352960875::1697128477::0::1::::<><>::res://addons/dialogue_manager/components/errors_panel.gd
+files_list.gd::GDScript::-1::1697128477::0::1::::<>VBoxContainer<>::
+files_list.tscn::PackedScene::8113335055803740416::1697128477::0::1::::<><>::res://addons/dialogue_manager/components/files_list.gd<>uid://d3lr2uas6ax8v
+parser.gd::GDScript::-1::1697128478::0::1::::DialogueManagerParser<>Object<>::
+parse_result.gd::GDScript::-1::1697128477::0::1::::DialogueManagerParseResult<>RefCounted<>::
+resolved_line_data.gd::GDScript::-1::1697128478::0::1::::ResolvedLineData<>RefCounted<>::
+resolved_tag_data.gd::GDScript::-1::1697128478::0::1::::ResolvedTagData<>RefCounted<>::
+search_and_replace.gd::GDScript::-1::1697128478::0::1::::<>VBoxContainer<>::
+search_and_replace.tscn::PackedScene::458254375860855630::1697128478::0::1::::<><>::res://addons/dialogue_manager/components/search_and_replace.gd
+settings.gd::GDScript::-1::1697128478::0::1::::<>Node<>::
+title_list.gd::GDScript::-1::1697128478::0::1::::<>VBoxContainer<>::
+title_list.tscn::PackedScene::6134415340044566558::1697128478::0::1::::<><>::res://addons/dialogue_manager/components/title_list.gd
+update_button.gd::GDScript::-1::1697128478::0::1::::<>Button<>::
+update_button.tscn::PackedScene::5825087957514786930::1697128478::0::1::::<><>::res://addons/dialogue_manager/components/update_button.gd<>uid://qdxrxv3c3hxk
+::res://addons/dialogue_manager/example_balloon/::1697128478
+example_balloon.gd::GDScript::-1::1697128478::0::1::::<>CanvasLayer<>::
+example_balloon.tscn::PackedScene::2304415056852043862::1697128478::0::1::::<><>::res://addons/dialogue_manager/example_balloon/example_balloon.gd<>uid://ckvgyvclnwggo
+small_example_balloon.tscn::PackedScene::1883859960814163368::1697128478::0::1::::<><>::res://addons/dialogue_manager/example_balloon/example_balloon.gd<>uid://ckvgyvclnwggo
+::res://addons/dialogue_manager/l10n/::1697128478
+en.mo::Translation::-1::1697128478::0::1::::<><>::
+en.po::Translation::-1::1697128478::0::1::::<><>::
+zh-cn.po::Translation::-1::1697128478::0::1::::<><>::
+zh-tw.po::Translation::-1::1697128478::0::1::::<><>::
+::res://addons/dialogue_manager/views/::1697128478
+main_view.gd::GDScript::-1::1697128478::0::1::::<>Control<>::
+main_view.tscn::PackedScene::4884668666408697448::1697128478::0::1::::<><>::res://addons/dialogue_manager/views/main_view.gd<>uid://civ6shmka5e8u
+settings_view.gd::GDScript::-1::1697128478::0::1::::<>TabContainer<>::
+settings_view.tscn::PackedScene::5839841081119266502::1697128478::0::1::::<><>::res://addons/dialogue_manager/views/settings_view.gd
+::res://pngs/::1698164954
+amogus.png::CompressedTexture2D::1814642324524980475::1696266691::1696351620::1::::<><>::
+itemshop0.png::CompressedTexture2D::5800254507642505598::1696351151::1696351618::1::::<><>::
+itemshop1.png::CompressedTexture2D::2459826487045713327::1696351151::1696351618::1::::<><>::
+itemshop2.png::CompressedTexture2D::6184701861991497395::1696351151::1696351618::1::::<><>::
+itemshop3.png::CompressedTexture2D::4639148603843173783::1696351151::1696351618::1::::<><>::
+itemshop4.png::CompressedTexture2D::2639929437349450382::1696351151::1696351618::1::::<><>::
+itemshop5.png::CompressedTexture2D::3356247645494965888::1696351151::1696351618::1::::<><>::
+itemshop6.png::CompressedTexture2D::2067521319556963309::1696351151::1696351618::1::::<><>::
+itemshop7.png::CompressedTexture2D::4233651907496321517::1696351151::1696351618::1::::<><>::
+itemshop8.png::CompressedTexture2D::9153153631612547109::1696351151::1696351618::1::::<><>::
+New Piskel (2).png::CompressedTexture2D::991616816809909588::1696266725::1696351639::1::::<><>::
+New Piskel (4).png::CompressedTexture2D::6824295234970868616::1696266059::1696351639::1::::<><>::
+New Piskel (5).png::CompressedTexture2D::7802771663145116576::1696266705::1696351639::1::::<><>::
+New Piskel (6).png::CompressedTexture2D::8997752882742103655::1696266705::1696351639::1::::<><>::
+New Piskel (7).png::CompressedTexture2D::4374554245120294043::1696266705::1696351639::1::::<><>::
+New Piskel (9).png::CompressedTexture2D::2339263875942373905::1696266705::1696351639::1::::<><>::
+New Piskel (10).png::CompressedTexture2D::5263841917406305254::1696266705::1696351639::1::::<><>::
+New Piskel (11).png::CompressedTexture2D::3968043843568407049::1696266705::1696351639::1::::<><>::
+New Piskel (12).png::CompressedTexture2D::4000458767823297205::1696265852::1696351639::1::::<><>::
+New Piskel (13) (1).png::CompressedTexture2D::5882018974149611920::1698164953::1698164954::1::::<><>::
+New Piskel (14).png::CompressedTexture2D::4142537325403229577::1697127202::1697127202::1::::<><>::
+New Piskel-1.png (1).png::CompressedTexture2D::7894277828715447002::1696265866::1696351639::1::::<><>::
+New Piskel-1.png.png::CompressedTexture2D::6555456898779753666::1696265860::1696351639::1::::<><>::
+New Piskel-2.png (1).png::CompressedTexture2D::1940292970423467644::1696438190::1696438203::1::::<><>::
+New Piskel-2.png.png::CompressedTexture2D::3584845322102511814::1696265664::1696351639::1::::<><>::
+New Piskel-3.png.png::CompressedTexture2D::4107125748280731648::1696265870::1696351639::1::::<><>::
+new-1.png.png::CompressedTexture2D::2906330211670994726::1696265857::1696351639::1::::<><>::
+super.png::CompressedTexture2D::3638891130629348185::1696267853::1696351639::1::::<><>::
